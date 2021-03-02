@@ -11,5 +11,5 @@
   "editor.formatOnSave": true,
   "editor.rulers": [100],
   "eslint.validate": ["javascript"],
-  "prettier.disableLanguages": ["javascript"],
+  "prettier.disableLanguages": ["javascript"]
 }
