@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "meow": "^10.0.0"
   },
   "husky": {
