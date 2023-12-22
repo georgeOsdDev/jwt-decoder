@@ -14,7 +14,7 @@
   "dependencies": {
     "chalk": "^5.0.0",
     "jsonwebtoken": "^8.5.1",
-    "meow": "^10.0.0"
+    "meow": "^13.0.0"
   },
   "husky": {
     "hooks": {
